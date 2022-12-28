@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Character
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e3b16e35f7230af4c8ea6521a636cb05, type: 3}
+    - {fileID: 2800000, guid: 93d1be44a6a417b45a4dbdae10fcf26c, type: 3}
+    - {fileID: 2800000, guid: 0c5aae48cf5b105409d41707197a6c15, type: 3}
+    - {fileID: 2800000, guid: 51aee4d209bb55041bb170768e4b400e, type: 3}
+    - {fileID: 2800000, guid: b4568f5cf0ee2a4449c3d6500d1d3a84, type: 3}
+    - {fileID: 2800000, guid: 1a1a4391e1b5be043bc81c2708be94b3, type: 3}
+    - {fileID: 2800000, guid: c41f0ef1a02af80498de0a1bf2b29f41, type: 3}
+    - {fileID: 2800000, guid: 0f1fdbb8252a4684dbbb20bf1787a99e, type: 3}
+    - {fileID: 2800000, guid: 131d1f2d05067f242b64d99a349571a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1a1a4391e1b5be043bc81c2708be94b3, type: 3}
+  - {fileID: 21300000, guid: c41f0ef1a02af80498de0a1bf2b29f41, type: 3}
+  - {fileID: 21300000, guid: 51aee4d209bb55041bb170768e4b400e, type: 3}
+  - {fileID: 21300000, guid: 93d1be44a6a417b45a4dbdae10fcf26c, type: 3}
+  - {fileID: 21300000, guid: e3b16e35f7230af4c8ea6521a636cb05, type: 3}
+  - {fileID: 21300000, guid: 0c5aae48cf5b105409d41707197a6c15, type: 3}
+  - {fileID: 21300000, guid: 0f1fdbb8252a4684dbbb20bf1787a99e, type: 3}
+  - {fileID: 21300000, guid: b4568f5cf0ee2a4449c3d6500d1d3a84, type: 3}
+  - {fileID: 21300000, guid: 131d1f2d05067f242b64d99a349571a0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Neck
+  - Plam
+  - Forearm
+  - Torso
+  - Basin
+  - Foot
+  - Shoulder
+  - Head
+  - Thigh
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Character
+  m_IsVariant: 0
